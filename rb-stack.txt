@@ -1,0 +1,9 @@
+//bitnami files
+docs: https://docs.bitnami.com/ 
+installer apps: https://docs.bitnami.com/installer/apps/ 
+how to: https://docs.bitnami.com/general/how-to/ 
+linux-faq: https://docs.bitnami.com/installer/faq/linux-faq/ 
+getting-started: https://docs.bitnami.com/installer/faq/linux-faq/get-started/install-linux/ 
+stacksmith: https://bitnami.com/stacksmith 
+
+
